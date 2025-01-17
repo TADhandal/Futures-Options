@@ -1,6 +1,2 @@
-matplotlib==3.8.2
-nsepython==2.94
-numpy==2.2.1
-pandas==2.2.3
-plotly==5.18.0
-streamlit==1.40.1
+opstrat
+scipy
