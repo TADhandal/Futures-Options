@@ -1,7 +1,7 @@
 import streamlit as st
 import opstrat as op
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
+#st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.set_page_config(
     page_title="Pay Off Diagram for Options",
